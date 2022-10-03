@@ -1,0 +1,11 @@
+{
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    }
+}
